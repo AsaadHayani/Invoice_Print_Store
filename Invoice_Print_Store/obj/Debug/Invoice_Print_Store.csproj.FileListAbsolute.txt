@@ -1,0 +1,9 @@
+C:\Users\Asaad\Desktop\Invoice_Print_Store\Invoice_Print_Store\bin\Debug\Invoice_Print_Store.exe.config
+C:\Users\Asaad\Desktop\Invoice_Print_Store\Invoice_Print_Store\bin\Debug\Invoice_Print_Store.exe
+C:\Users\Asaad\Desktop\Invoice_Print_Store\Invoice_Print_Store\bin\Debug\Invoice_Print_Store.pdb
+C:\Users\Asaad\Desktop\Invoice_Print_Store\Invoice_Print_Store\obj\Debug\Invoice_Print_Store.csprojResolveAssemblyReference.cache
+C:\Users\Asaad\Desktop\Invoice_Print_Store\Invoice_Print_Store\obj\Debug\Invoice_Print_Store.Form1.resources
+C:\Users\Asaad\Desktop\Invoice_Print_Store\Invoice_Print_Store\obj\Debug\Invoice_Print_Store.Properties.Resources.resources
+C:\Users\Asaad\Desktop\Invoice_Print_Store\Invoice_Print_Store\obj\Debug\Invoice_Print_Store.csproj.GenerateResource.Cache
+C:\Users\Asaad\Desktop\Invoice_Print_Store\Invoice_Print_Store\obj\Debug\Invoice_Print_Store.exe
+C:\Users\Asaad\Desktop\Invoice_Print_Store\Invoice_Print_Store\obj\Debug\Invoice_Print_Store.pdb
